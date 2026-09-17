@@ -225,8 +225,8 @@ Add screenshots of your Power BI dashboard here.
 Example:
 ```
 markdown
-![Executive Overview](C:/Users/dpmna/OneDrive/Pictures/Screenshots/Screenshot 2026-09-17 210724.png
-)
+<img width="1306" height="739" alt="Screenshot 2026-09-17 210724" src="https://github.com/user-attachments/assets/51fbfcba-cba7-4fec-bfe1-126d38e3338e" />
+
 ```
 ---
 
