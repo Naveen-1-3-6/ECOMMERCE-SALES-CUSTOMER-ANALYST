@@ -223,11 +223,11 @@ ECOMMERCE SALES CUSTOMER ANALYST.pbix
 Add screenshots of your Power BI dashboard here.
 
 Example:
-
+```
 markdown
 ![Executive Overview](C:\Users\dpmna\OneDrive\Pictures\Screenshots
 )
-
+```
 ---
 
 ## 🎓 Skills Demonstrated
